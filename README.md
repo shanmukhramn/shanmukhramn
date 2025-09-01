@@ -1,4 +1,4 @@
-# Hi there, I'm Shanmukh Ram Reddy Notuu 👋
+# Hi there 👋, I'm Shanmukh Ram Reddy Notuu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shanmukh-ram-reddy-notuu-439726258)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shanmukhramn)
